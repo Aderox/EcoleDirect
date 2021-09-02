@@ -1,0 +1,22 @@
+{
+  "name": "ecoledirect",
+  "version": "1.0.0",
+  "description": "Mais en bien !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aderox/EcoleDirect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aderox/EcoleDirect/issues"
+  },
+  "homepage": "https://github.com/Aderox/EcoleDirect#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
